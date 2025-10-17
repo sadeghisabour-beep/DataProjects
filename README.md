@@ -17,6 +17,7 @@ This portfolio contains sample projects and exercises demonstrating my skills in
 - `Dailysaleproduce.xlsx` → Daily sales dashboard built with Excel and Power View  
 - `powerview-map.xlsx` → Regional visualization using slicers and KPIs  
 - `NewBudgetItem.sql` → SQL automation for financial budget updates  
+> You can download and explore the files above to see examples of my Excel-based data analysis and dashboard design work.
 
 ---
 
